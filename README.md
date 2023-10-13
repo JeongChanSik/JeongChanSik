@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Notion 주소](https://www.notion.so/fe861e7cda704d979f68dae3862ff4d9)
+[Notion 링크](https://www.notion.so/fe861e7cda704d979f68dae3862ff4d9)
+<br>
+[Velog 링크](https://velog.io/@cs_jeong)
